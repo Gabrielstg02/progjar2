@@ -1,2 +1,3 @@
 # PROGJAR_Tugas2
-tugas2
+Gabriel Solomon Sitanggang
+5025201165
